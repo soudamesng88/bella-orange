@@ -1,0 +1,315 @@
+.plan
+{
+    width:  100%;
+    block-size:170rem;
+    left: 20%;
+    top: 6em;
+   
+
+}
+.entete
+
+{
+    justify-content: space-between;
+    width: 100%;
+    block-size: 8em;
+    background-color:ghostwhite;
+     display: flex;  
+    
+
+}
+.Logo
+{
+    background-image: url("Logo.png");
+    block-size: 7rem;
+    background-repeat: no-repeat;
+    width: 20rem;
+
+}
+
+  .menu
+  {
+    display: flex;
+    margin: 3em;
+    block-size: 3em;
+    width: 25rem;
+    
+  } 
+  .menu>:nth-child(1), .menu>:nth-child(2) ,.menu>:nth-child(3)
+  {
+    margin-right: 4em;
+  }
+  .menu>:nth-child(1)
+  {
+    color: coral;
+  }
+.espace_plat
+{
+     position: relative; 
+    width: 100%;
+    block-size:35rem;
+     background:linear-gradient(rgba(19, 0, 0, 0.5),rgb(0, 0, 0,0.5)) , url("Rectangle 48BG Slide (1).png");
+     
+}
+ .plat 
+{
+   position: relative;
+   width: 20%;
+   block-size: 2em;
+   left: 42%;
+    top:1em;
+    color: aliceblue;
+}
+.titre 
+{
+  position: relative; 
+    width: 34%;
+    block-size: 6em;
+    left: 27%;
+    top: 1em;
+    font-size: xx-large ;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+}
+
+.down
+{
+    position: relative;
+    width: 50%;
+    block-size: 4em;
+    left: 33%;
+    top: 3.5em;
+    color: aliceblue;
+    
+}
+.play_store
+{
+    position: relative;
+    width: 10%;
+    border:0.1em solid   orangered;
+    block-size: 2.5em;
+    left: 38%;
+    border-radius: 2rem;
+    top: 6.3em;
+    background-color: orangered;
+   
+}
+.play
+{
+    font-size: large;
+    text-align: center ;
+    margin-top:0.5em;
+    color: aliceblue;
+
+}
+.app_store
+{
+    position: relative;
+    width: 10%;
+    block-size: 2.5em;
+    left: 50%;
+    border: 0.1em  solid aliceblue;; 
+    border-radius: 2rem;
+    top: 3.5em; 
+}
+.app
+{
+    font-size: large;
+    text-align: center ;
+    margin-top:0.5em;
+    color: aliceblue;
+
+}
+.partietel
+{
+    position: relative;
+    width: 100%;
+    block-size: 120rem;
+    top: 0em;
+
+    background-color:ghostwhite;
+
+}
+.question
+{
+    position: relative;
+    width :40em;
+    block-size: 5rem;
+    left: 30em;
+    top: -73em;
+    font-weight: bold;
+    font-size: large;
+    
+
+}
+.teleph1
+ {
+    position: relative;
+    width: 24em;
+    block-size: 38em;
+    top: -82em;
+    left: 8em;
+    background-image: url(RectangleImg2.png);
+    background-position: center;
+
+
+ }
+ .explore
+ {
+    position: relative;
+    width: 35em;
+    block-size: 20em;
+    left: 35em;
+    top: -105em;
+ }
+ .tete
+ {
+    width: 25em;
+    block-size: 2em;
+    position: relative;
+    top: em;
+    left: em;
+    color: orangered; 
+
+
+ }
+ .corps
+ {
+   width:14em;
+   top: 4em;
+   block-size: 3em;
+   font-size: large;
+   font-weight: bold;
+
+ }
+ .pied
+ {
+    width:16em;
+    top: 12em;
+    block-size: 2em;
+    font-weight: lighter;
+  
+ }
+ .teleph2
+ {
+
+    position: relative;
+    width: 24em;
+    block-size: 38em;
+    top: -102em;
+    left: 38em;
+    background-image: url(RectangleImg3.png);
+    background-position: center;
+
+
+ }
+ .explore1
+ {
+    position: relative;
+    width: 35em;
+    block-size: 20em;
+    left: 8em;
+    top: -122em;
+ }
+ .tete1
+ {
+    width: 25em;
+    block-size: 2em;
+    position: relative;
+    top: em;
+    left: em;
+    color: orangered; 
+
+
+ }
+ .corps1
+ {
+   width:8em;
+   top: 4em;
+   block-size: 3em;
+   font-size: large;
+   font-weight: bold;
+
+ }
+ .pied1
+ {
+    width:16em;
+    top: 12em;
+    block-size: 2em;
+    font-weight: lighter;
+  
+ }
+.telephone
+{
+     position: relative; 
+    width: 55%;
+    block-size: 40em;
+    top: -136.5em;
+    left: 23%;
+    background-image: url("2telephones.png");
+    background-position: center;
+    
+}
+.trait
+{
+    position: relative;
+    width: 60%;
+    border: 0.05em solid rgb(211, 205, 205);
+    top: -125em;
+left: 22%;
+}
+.caselogo
+{
+    position: relative;
+    width: 18em;
+    block-size: 12em;
+    bottom: 48em;
+    left: 4em;
+
+}
+.logo1
+{
+    background-image: url("Logo.png");
+    block-size: 7rem;
+    background-repeat: no-repeat;
+    width: 12rem;
+}
+.tweet
+{
+    position: relative;
+    width: 16em;
+    block-size: 12em;
+    background-image: url(Vector\ \(1\).png);
+    background-repeat: no-repeat;
+    left: 28em;
+    bottom: 3em;
+}
+.facebook
+{
+    position: relative;
+    width: 16em;
+    block-size: 12em;
+    background-image: url(Vector.png);
+    background-repeat: no-repeat;
+    left: 32em;
+    bottom: 15em;
+}
+.photo
+{
+    position: relative;
+    width: 16em;
+    block-size: 12em;
+    background-image: url(instagramicone.png);
+    background-repeat: no-repeat;
+    left: 36em;
+    bottom: 27.5em;
+}
+.copy
+{
+    position: relative;
+    width: 16em;
+    block-size: 4em;
+    left: 56em;
+    bottom: 40em;
+}   
